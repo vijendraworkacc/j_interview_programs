@@ -1,0 +1,1 @@
+A collection of core Java practice programs designed to strengthen problem-solving skills and prepare for technical interviews. Covers data structures, algorithms, object-oriented concepts, and common coding challenges to build efficiency, clarity, and confidence in Java.
