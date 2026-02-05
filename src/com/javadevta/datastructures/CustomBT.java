@@ -56,7 +56,7 @@ package com.javadevta.datastructures;
  *    - Lowest Common Ancestor (LCA) of two nodes
  *    - Diameter of the tree (longest path between two nodes)
  *    - Path sum (check if there exists a path with a given sum)
- *    - Serialize and deserialize tree (convert to and from string)
+ *    - Serialize and deserialize tree (convert to and from old)
  *
  * These features together make a complete implementation of a Binary Tree.
  */

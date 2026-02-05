@@ -1,4 +1,4 @@
-package com.javadevta.leetcode.string;
+package com.javadevta.leetcode.old;
 
 import java.util.ArrayList;
 import java.util.List;
